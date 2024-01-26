@@ -6,8 +6,6 @@ This is a quick, engaging 24-hour coding challenge template designed to hone you
 
 ## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
-![BigDevSoon's OG Image](https://app.bigdevsoon.me/og-image.png)
-
 Dive into this short but exciting challenge to sharpen your coding skills. Build something amazing in just 24 hours!
 
 ## Challenge brief
